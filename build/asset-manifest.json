@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64b4c999.chunk.css",
+    "main.js": "/static/js/main.4bd31bf7.chunk.js",
+    "main.js.map": "/static/js/main.4bd31bf7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efc0c886.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efc0c886.js.map",
+    "static/css/2.dc660faf.chunk.css": "/static/css/2.dc660faf.chunk.css",
+    "static/js/2.a73aefe0.chunk.js": "/static/js/2.a73aefe0.chunk.js",
+    "static/js/2.a73aefe0.chunk.js.map": "/static/js/2.a73aefe0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5dec3c5caf964643b813da7691e81f9d.js": "/precache-manifest.5dec3c5caf964643b813da7691e81f9d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.dc660faf.chunk.css.map": "/static/css/2.dc660faf.chunk.css.map",
+    "static/css/main.64b4c999.chunk.css.map": "/static/css/main.64b4c999.chunk.css.map",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
+  }
+}
