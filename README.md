@@ -1,30 +1,27 @@
+# Furniture Shop
+Application for Furniture Shop.
+> Live demo [https://replit.com/@Lemarczini21/furniture-shop](https://replit.com/@Lemarczini21/furniture-shop)
 
 
+## Technologies Used
+- React
+- Redux
+- CSS/SASS
 
-# WDP Projekt Zespołowy
+## Features
+- Advanced filters for products
+- Changing currency
+- RWB
+- Swipe functionality 
 
-## Inicjacja projektu
 
-Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `yarn install` (lub `npm install`).
+## Screenshots
 
-Teraz możesz zacząć pracę, korzystając z przygotowanych taska `yarn start` (lub `npm start`).
+[![homepage](https://github.com/Lemarczini21/furniture-shop/blob/main/public/images/screenshots/furniture1.png)
+[![homepage](https://github.com/Lemarczini21/furniture-shop/blob/main/public/images/screenshots/furniture2.png)
+[![homepage](https://github.com/Lemarczini21/furniture-shop/blob/main/public/images/screenshots/furniture3.png)
 
-Wszystkie potrzebne do pracy pliki źródłowe znajdują się w folderach `src` oraz `public`.
-
-## NPM Scripts
-
-Dostępne są 3 główne skrypty przyspieszające pracę:
-
-- `build`: na bazie plików z folderów `src` i `public` buduje project w folderze `build`
-- `start`: obserwuje zmiany w folderze `src` i uruchamia podgląd roboczy
-- `test`: uruchomienie testów jednostkowych
-- `refactor`: skrypt dokonuje automatycznego formatowania plików w folderze `src/`
-  zgodnie z przyjętą konwencją formatowania kodu, a także sprawdza błędy za pomocą ESLinta
-
-## Git Hooks
-
-Projekt korzysta z Git Hooks - możliwości uruchamiania skryptów w reakcji na wybrane zdarzenia programu Git.
-
-Za każdym razem gdy wykonasz komendę `git commit` zostaną uruchomione testy jednostkowe, formatowanie oraz lintowanie
-dla plików, które zostały wybrane za pomocą `git add` i mają być zapisane w commicie.
-
+## Contact
+Created by Marcin Gwizdek - feel free to contact me!
+@ kontakt@marcingwizdek.pl
+https://www.linkedin.com/in/marcin-gwizdek/
